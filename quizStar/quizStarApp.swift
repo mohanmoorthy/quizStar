@@ -1,6 +1,6 @@
 //
 //  quizStarApp.swift
-//  quizStar
+//  quizStar by mohan
 //
 //  Created by Mohanmoorthy on 19/08/24.
 //
